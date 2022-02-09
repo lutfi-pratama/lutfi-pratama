@@ -22,7 +22,7 @@ Software engineer who loves to learn something new about tech stack and have amb
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="25px" src="https://github.com/lutfi-pratama/lutfi-pratama/blob/main/php-logo-20743.png"/></a>
   <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="25px" src="https://github.com/lutfi-pratama/lutfi-pratama/blob/main/logo-mysql-26300.png"/></a>
   <a href="#"><img align="left" alt="Linux" title="Linux" width="21px" src="https://github.com/lutfi-pratama/lutfi-pratama/blob/main/Lunux.png"/></a>
-  <a href="https://cloud.google.com/"><img align="left" alt="Google Cloud" title="Goole Cloud" width="30px" src="https://github.com/lutfi-pratama/lutfi-pratama/blob/main/Google-cloud.png"/></a><br><br>
+  <a href="https://cloud.google.com/"><img align="left" alt="Google Cloud" title="Goole Cloud" width="30px" src="https://github.com/lutfi-pratama/lutfi-pratama/blob/main/Google-cloud.png"/></a><br><br><br>
   
 <hr>
 
